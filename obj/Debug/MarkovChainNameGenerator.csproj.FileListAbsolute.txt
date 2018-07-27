@@ -1,0 +1,10 @@
+E:\Projects\MarkovChainNameGenerator\MarkovChainNameGenerator\bin\Debug\MarkovChainNameGenerator.exe.config
+E:\Projects\MarkovChainNameGenerator\MarkovChainNameGenerator\bin\Debug\MarkovChainNameGenerator.exe
+E:\Projects\MarkovChainNameGenerator\MarkovChainNameGenerator\bin\Debug\MarkovChainNameGenerator.pdb
+E:\Projects\MarkovChainNameGenerator\MarkovChainNameGenerator\obj\Debug\MarkovChainNameGenerator.csprojAssemblyReference.cache
+E:\Projects\MarkovChainNameGenerator\MarkovChainNameGenerator\obj\Debug\MarkovChainNameGenerator.Form1.resources
+E:\Projects\MarkovChainNameGenerator\MarkovChainNameGenerator\obj\Debug\MarkovChainNameGenerator.Properties.Resources.resources
+E:\Projects\MarkovChainNameGenerator\MarkovChainNameGenerator\obj\Debug\MarkovChainNameGenerator.csproj.GenerateResource.cache
+E:\Projects\MarkovChainNameGenerator\MarkovChainNameGenerator\obj\Debug\MarkovChainNameGenerator.csproj.CoreCompileInputs.cache
+E:\Projects\MarkovChainNameGenerator\MarkovChainNameGenerator\obj\Debug\MarkovChainNameGenerator.exe
+E:\Projects\MarkovChainNameGenerator\MarkovChainNameGenerator\obj\Debug\MarkovChainNameGenerator.pdb
